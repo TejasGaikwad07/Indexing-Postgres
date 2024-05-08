@@ -80,7 +80,7 @@ Search on the index is usually `log(n)`
 
 ### Without indexes
 
-![Screenshot 2024-04-27 at 7.04.41 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/085e8ad8-528e-47d7-8922-a23dc4016453/059144a3-cb58-4658-8b51-019f2411950b/Screenshot_2024-04-27_at_7.04.41_PM.png)
+<img width="1252" alt="without indexs" src="https://github.com/TejasGaikwad07/Indexing-Postgres/assets/70066236/f55f86ea-19f1-40e4-a77b-58b3aa01634d">
 
 ### With indexes
 
