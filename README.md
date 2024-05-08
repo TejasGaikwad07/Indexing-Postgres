@@ -84,7 +84,7 @@ Search on the index is usually `log(n)`
 
 ### With indexes
 
-![Screenshot 2024-04-27 at 7.10.00 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/085e8ad8-528e-47d7-8922-a23dc4016453/3df35f4c-ed1e-4ed2-a704-99c43a3a999a/Screenshot_2024-04-27_at_7.10.00_PM.png)
+<img width="1332" alt="with index" src="https://github.com/TejasGaikwad07/Indexing-Postgres/assets/70066236/c4f358da-4332-4a24-abda-918839a07005">
 
 The data pointer (in case of postgres) is the `page` and `offset` at which this record can be found. 
 
